@@ -50,6 +50,8 @@ int main() {
     return 0;
 }
 ```
+## Output 2a
+![output2a](https://github.com/user-attachments/assets/80f9e7b4-a312-4e70-8eca-730d99438c33)
 ## Code: 2B
 ```
 //KANWALJEET SINGH
@@ -102,6 +104,8 @@ int main() {
 return 0;
 }
 ```
+## Output 2b
+![output2b](https://github.com/user-attachments/assets/82ce24b3-7071-46e3-be56-00091d19d007)
 ## Code: 2C
 ```
 //KANWALJEET SINGH
@@ -130,6 +134,9 @@ int main() {
     return 0;
 }
 ```
+## Output 2c
+![output2](https://github.com/user-attachments/assets/89d77a50-99ca-4ddf-ae1c-434dc0372fea)
+
 ## Conclusion:
 By studying and implementing various data types in C++, you build a strong foundation in how the language handles data and memory. This knowledge is essential for writing efficient and effective C++ programs. Practicing with real-world examples and exploring advanced concepts 
 like dynamic memory allocation will deepen your understanding and prepare you for more complex programming challenges.
